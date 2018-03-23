@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86520697117",
+    "firebase_url": "https://cafe-menu-45aca.firebaseio.com",
+    "project_id": "cafe-menu-45aca",
+    "storage_bucket": "cafe-menu-45aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86520697117:android:5badaaf371fe7319",
+        "android_client_info": {
+          "package_name": "com.cafe.ahmed.cafemenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86520697117-pkvpnlhvb4r7n1vi1ku5i05ft862t6uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcE8E3aRjb6o7Mx0xpuy9zZpVAUuJV65w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
